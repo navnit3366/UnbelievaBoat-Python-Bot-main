@@ -1,0 +1,137 @@
+{
+    "variables": [
+        {
+            "name": "slut",
+            "delay": 3,
+            "min_revenue": 1500,
+            "max_revenue": 4300,
+            "proba": 70,
+            "win_phrases": [
+                "You made",
+                "Your dad likes it so much he gives you",
+                "You suck dick like a real pro! You even got tipped",
+                "You worked together with Johnny Sins and got",
+                "You fucked Lana Rhoades and got",
+                "You worked at Brazzers and got",
+                "You worked in a brothel and got",
+                "You sucked Silvana's futanari cock and got",
+                "You fucked Gaymion in his ass and got",
+                "You sucked your teachers dick for a better oral grade and got"
+            ],
+            "lose_phrases": [
+                "You were fined",
+                "Your uncle didn't like the encounter. You pay",
+                "You tried to rape a girl and got fined",
+                "You tried to have incest with your little sister and got caught by the FBI. You were fined"
+            ],
+            "min_lose_amount_percentage": 1,
+            "max_lose_amount_percentage": 2
+        },
+        {
+            "name": "crime",
+            "delay": 4,
+            "min_revenue": 3000,
+            "max_revenue": 6000,
+            "proba": 60,
+            "win_phrases": [
+                "You commited a crime and got",
+                "You robbed a bank and got",
+                "You killed someone and got",
+                "You beheaded someone and got",
+                "You shot N for fun and a KluKluxKlan-Member gave you",
+                "You kidnapped Ash from Pok\u00e9mon and got",
+                "You flew into a skyscraper and got",
+                "You gassed a few Jews and got",
+                "You killed some Gays in a propaganda Video by the IS and got",
+                "You hung an emo kid and got",
+                "You committed a war crime and got",
+                "You killed someone with a bounty on his head and got",
+                "You ran amok on christopher street day and got",
+                "You sold cp in a Genshin Impact server and got",
+                "You cutted a transgenders penis in a livestream and some transphobes donated you",
+                "You shot a gay rights activist and got",
+                "You sold 10 gram cocaine and got",
+                "You sold 100 gram heroin and got",
+                "You bullied a trans girl until she hung herself",
+                "You kidnapped KuchenTV's son, sold him to A.B.K and got",
+                "You leaked A.B.K's private address and KuchenTV gave you",
+                "You punched a pregnant woman in the stomach and her husband gave you",
+                "You bombed a church in revenge for the New Zealand attack\nand the IS paid you",
+                "You raped every BTS member as revenge for giving you ear cancer and got paid"
+            ],
+            "lose_phrases": [
+                "You were fined",
+                "MacGyver finds you, you pay",
+                "The FBI caught you, you pay",
+                "The CIA caught you, you pay",
+                "Spiderman finds you, you pay",
+                "You said in front of Xi Jinping that Taiwan is a country so you lost 10k social credit points and were fined"
+            ],
+            "min_lose_amount_percentage": 1,
+            "max_lose_amount_percentage": 2
+        },
+        {
+            "name": "work",
+            "delay": 2,
+            "min_revenue": 1000,
+            "max_revenue": 3000,
+            "win_phrases": [
+                "You worked at SubWay and made",
+                "You helped someone do his homework and got",
+                "You worked at BurgerKing and made",
+                "You won at basketball against some cotton pickers and got"
+            ]
+        },
+        {
+            "name": "daily",
+            "delay": 1440,
+            "min_revenue": 30000,
+            "max_revenue": 50000,
+            "win_phrases": [
+                "You got",
+                "Your mom gifted you"
+            ]
+        },
+        {
+            "name": "rob",
+            "delay": 45,
+            "proba": 40,
+            "min_gain_amount_percentage": 25,
+            "max_gain_amount_percentage": 50,
+            "min_lose_amount_percentage": 10,
+            "max_lose_amount_percentage": 20,
+            "win_phrases": [
+                "You robbed and got"
+            ],
+            "lose_phrases": [
+                "You were caught robbing and have to pay"
+            ]
+        }
+    ],
+    "symbols": [
+        {
+            "name": "$",
+            "symbol_emoji": "emoji id goes here"
+        }
+    ],
+    "items": [],
+    "income_roles": [],
+    "userdata": [
+        {
+            "user_id": 100000000000000000,
+            "cash": 0.0,
+            "bank": 0.0,
+            "items": "none",
+            "last_slut": "2022-01-27 19:37:32.396443",
+            "last_work": "2022-01-27 19:37:29.953428",
+            "last_crime": "2022-01-27 19:37:34.968249",
+            "last_rob": "2022-01-22 12:31:41.926268",
+            "last_daily": "none",
+            "rate": 50,
+            "work_mult": 1.0,
+            "crime_mult": 1.0,
+            "slut_mult": 1.0,
+            "daily_mult": 1.0
+        }
+    ]
+}
